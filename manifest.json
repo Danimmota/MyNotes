@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "MyNotes",
+    "version": "1.0",
+    "description": "Um bloco de notas rápido e poderoso, permitindo checklists, inserção de blocos de código, edição de texto avançada e mais. Inclui também 'dark mode' para uma experiência personalizável e confortável em qualquer ambiente. \n",
+    "action": {
+        "default_popup":"popup.html",
+        "default_icon": {
+            "16":"imgs/icon16.png",
+            "32":"imgs/icon32.png",
+            "64":"imgs/icon64.png",
+            "128":"imgs/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "imgs/icon16.png",
+        "32":"imgs/icon32.png",
+        "48": "imgs/icon48.png",
+        "64":"imgs/icon64.png",
+        "128": "imgs/icon128.png"
+    },
+    "permissions": ["storage"]
+}

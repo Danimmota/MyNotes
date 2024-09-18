@@ -1,0 +1,44 @@
+#editorjs {
+    border: solid 1px #ccc;
+    padding: 2px 15px 0px 15px;
+    border-radius: 10px;
+    width: 500px;
+    min-height: 400px;
+}
+
+.codex-editor__redactor{
+    padding-bottom: 80px !important;
+}
+
+.header{
+    padding: 8px 0px 15px 0px;
+}
+
+.header_title{    
+    font-size: 30px;
+    font-weight: 600; 
+    display: inline-flex;
+}
+
+.header_btn{
+    float: inline-end;
+    margin: 5px 12px 5px 0px;
+}
+
+/* BODY DEFINITIONS */
+
+.light-mode .dark-mode{
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-mode{
+    color: #fff !important;
+    background: #333 !important;
+}
+
+
+.light-mode{
+    color: #333 !important;
+    background: #fcf8f6 !important;
+}
