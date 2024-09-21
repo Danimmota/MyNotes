@@ -37,7 +37,7 @@ O My Notes é uma extensão prática do Google Chrome que traz a facilidade de u
 ## Capturas de Tela
 ---
 *![alt text](image.png)*
-
+*![alt text](image-1.png)*
 
 ## Tecnologias Utilizadas
 ---
@@ -50,11 +50,12 @@ O My Notes é uma extensão prática do Google Chrome que traz a facilidade de u
 ## Melhorias Futuras 
 ---
 
+- **Múltiplos blocos de notas**: Adiconar função para criação de uma lista ordenada por tempo de criação da nota.
+- **Compartilhamento de notas**: 
 - **Inserção de Imagens**: Adicionar imagens às suas anotações para maior clareza.
 - **Exportação para PDF/Markdown**: Oferecer a possibilidade de exportar anotações em diferentes formatos como PDF, Markdown, ou TXT.
 - **Suporte para notificações e lembretes**: Adicionar notificações e lembretes baseados em datas ou horários definidos pelo usuário para tarefas criadas no MyNotes.
 - **Anotações com Senha ou Criptografia**: Oferecer a opção de proteger anotações específicas com senha ou criptografia para aumentar a segurança dos dados. 
-- 
 
 ## Licença
 ---
